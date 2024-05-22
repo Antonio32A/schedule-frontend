@@ -1,7 +1,7 @@
 import "./Footer.css";
 import { Github } from "./icons";
 
-const GITHUB = "https://github.com";
+const GITHUB = "https://github.com/Antonio32A/schedule";
 
 export const Footer = () => (
     <footer className="Footer">
